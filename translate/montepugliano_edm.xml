@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:svcs="http://rdfs.org/sioc/services#"
+        xmlns:doap="http://usefulinc.com/ns/doap#">
+  <edm:ProvidedCHO rdf:about="https://parsec2.unicampania.it/montepugliano/spasquale">
+    <dc:title xml:lang="en">Wall of Montepugliano</dc:title>
+    <dc:description xml:lang="en">Detail of the walls of the fortified center from the Samnite era on the San Pasquale di Monte Pugliano hill..</dc:description>
+    <dc:Date>2023-03-27 22:53 UTC</dc:Date>
+    <dcterms:created>2023</dcterms:created>
+    <dc:subject rdf:resource="http://vocab.getty.edu/aat/300020103"/>
+    <dc:type rdf:resource="http://vocab.getty.edu/aat/300430220"/>
+    <dcterms:isPartOf>Europeana Foundation IIIF Example Records</dcterms:isPartOf>
+    <dc:format>photo</dc:format>
+    <edm:type>IMAGE</edm:type>
+    <edm:currentLocation rdf:resource="http://www.wikidata.org/entity/Q4093"/>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="https://parsec2.unicampania.it/montepugliano/spasquale_agg">
+    <edm:aggregatedCHO rdf:resource="https://parsec2.unicampania.it/montepugliano/spasquale"/>
+    <edm:isShownBy rdf:resource="https://parsec2.unicampania.it/iiif/images/montepugliano/_9_spasquale/spasquale.tif/full/,120/0/default.jpg"/>
+    <edm:dataProvider>University of Campania "Luigi Vanvitelli"</edm:dataProvider>
+            <edm:provider>University of Campania "Luigi Vanvitelli"</edm:provider>
+            <edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </ore:Aggregation>
+
+
+  <edm:WebResource rdf:about="https://parsec2.unicampania.it/iiif/images/montepugliano/_9_spasquale/spasquale.tif/full/,120/0/default.jpg">
+                      <edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:WebResource>
+
+  <svcs:Service rdf:about="https://parsec2.unicampania.it/iiif/images/montepugliano/_9_spasquale/spasquale.tif">
+            <dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+            <doap:implements rdf:resource="http://iiif.io/api/image/3/level2.json"/>
+        </svcs:Service>
+</rdf:RDF>
