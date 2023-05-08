@@ -1,0 +1,965 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_IL CAMPANILE_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_IL CAMPANILE_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_IL CAMPANILE_pagina_principale"
+                ]
+            },
+            "duration": 13.08,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_IL CAMPANILE_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_L\u00e2\u20ac\u2122arco di Diana_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_L\u00e2\u20ac\u2122arco di Diana_pagina_principale"
+                                    ]
+                                },
+                                "width": 1504,
+                                "height": 1000,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/_arco_diana_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Arco di Diana_pagina_principale"
+                ]
+            },
+            "width": 1504,
+            "height": 1000
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_modellino/modellino.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE PITTURE MURALI_modellino"
+                                    ]
+                                },
+                                "width": 960,
+                                "height": 1280,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_modellino/modellino.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE PITTURE MURALI_modellino"
+                ]
+            },
+            "width": 960,
+            "height": 1280
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_nav_centrale/nav_centrale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE PITTURE MURALI_nav_centrale"
+                                    ]
+                                },
+                                "width": 540,
+                                "height": 434,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_nav_centrale/nav_centrale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE PITTURE MURALI_nav_centrale"
+                ]
+            },
+            "width": 540,
+            "height": 434
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE PITTURE MURALI_pagina_principale"
+                                    ]
+                                },
+                                "width": 960,
+                                "height": 1280,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA//_LE PITTURE MURALI_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE PITTURE MURALI_pagina_principale"
+                ]
+            },
+            "width": 960,
+            "height": 1280
+        }
+    ],
+    "label": {
+        "italian": [
+            "2-EDIFICIO SACRO_BASILICA"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina2-EDIFICIO SACRO_BASILICA/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "personaggi_storici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=129,616,14,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "elem_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=336,312,36,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scene_religiose",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=125,384,18,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fig_umana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=290,759,32,40"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=762,860,36,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=605,877,36,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=107,863,22,36"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "simboli",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=501,455,11,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=837,101,18,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "motivi_iconografici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/1#xywh=805,180,18,25"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina2-EDIFICIO SACRO_BASILICA/index.json/canvas/2/annotationpage/3",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "elementi_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=312,237,5,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=270,186,6,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "figure_umane",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=92,274,9,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cipollino",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=319,344,5,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=117,335,7,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=111,386,10,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=164,372,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "capitello",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=380,304,7,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "corinzio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=271,270,9,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=377,370,8,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "base",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=265,395,6,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "semicolonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=274,311,5,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fusto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=318,365,9,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scene_religiose",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=18,234,11,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=85,335,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "motivi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/2#xywh=23,285,8,7"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina2-EDIFICIO SACRO_BASILICA/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fig_umane",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=22,358,10,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "personaggi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=879,212,17,27"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=178,27,7,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=365,13,15,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=22,154,17,24"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "religione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=864,110,22,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=32,54,38,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "iconografia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/3#xywh=796,32,12,15"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina2-EDIFICIO SACRO_BASILICA/index.json/canvas/4/annotationpage/5",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1241,51,16,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "silla",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=970,62,11,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1151,59,28,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1031,138,17,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=324,929,14,33"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1042,202,14,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ingresso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=313,669,11,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1224,126,22,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "mensola",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1132,356,16,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=153,571,20,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=861,54,8,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1182,196,8,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fusto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=542,685,11,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=220,599,14,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "mensole_temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1176,383,17,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=405,593,14,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "sine_postico",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=902,196,14,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "base",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=553,811,20,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=374,520,25,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/19-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "dec_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=919,132,25,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/20-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "op_laterizia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1120,423,9,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/21-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1143,132,33,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/22-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "mensola",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=575,509,9,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/23-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=1053,59,17,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4/annotation/24-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/2-EDIFICIO%20SACRO_BASILICA/index.json/canvas/4#xywh=61,789,8,19"
+                }
+            ]
+        }
+    ]
+}

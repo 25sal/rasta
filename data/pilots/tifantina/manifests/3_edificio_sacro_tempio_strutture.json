@@ -1,0 +1,2311 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il podio di I fase_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il podio di I fase_pagina_principale"
+                                    ]
+                                },
+                                "width": 335,
+                                "height": 448,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il podio di I fase_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il podio di I fase_pagina_principale"
+                ]
+            },
+            "width": 335,
+            "height": 448
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL PODIO MERIDIONALE_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_IL PODIO MERIDIONALE_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_IL PODIO MERIDIONALE_pagina_principale"
+                ]
+            },
+            "duration": 16.08,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL PODIO MERIDIONALE_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL PODIO ORIENTALE_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_IL PODIO ORIENTALE_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_IL PODIO ORIENTALE_pagina_principale"
+                ]
+            },
+            "duration": 14.6,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL PODIO ORIENTALE_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL RECINTO DEL SANTUARIO DI DIANA_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_IL RECINTO DEL SANTUARIO DI DIANA_pagina_principale"
+                                    ]
+                                },
+                                "width": 750,
+                                "height": 396,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_IL RECINTO DEL SANTUARIO DI DIANA_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_IL RECINTO DEL SANTUARIO DI DIANA_pagina_principale"
+                ]
+            },
+            "width": 750,
+            "height": 396
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_99_a_C/99_a_C.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il recinto sul lato occidentale_99_a_C"
+                                    ]
+                                },
+                                "width": 2772,
+                                "height": 1719,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_99_a_C/99_a_C.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il recinto sul lato occidentale_99_a_C"
+                ]
+            },
+            "width": 2772,
+            "height": 1719
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_135_a_C/135_a_C.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il recinto sul lato occidentale_135_a_C"
+                                    ]
+                                },
+                                "width": 3856,
+                                "height": 816,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_135_a_C/135_a_C.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il recinto sul lato occidentale_135_a_C"
+                ]
+            },
+            "width": 3856,
+            "height": 816
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il recinto sul lato occidentale_pagina_principale"
+                                    ]
+                                },
+                                "width": 521,
+                                "height": 348,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il recinto sul lato occidentale_pagina_principale"
+                ]
+            },
+            "width": 521,
+            "height": 348
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_silla/silla.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il recinto sul lato occidentale_silla"
+                                    ]
+                                },
+                                "width": 261,
+                                "height": 402,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato occidentale_silla/silla.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il recinto sul lato occidentale_silla"
+                ]
+            },
+            "width": 261,
+            "height": 402
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato orientale_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il recinto sul lato orientale_pagina_principale"
+                                    ]
+                                },
+                                "width": 344,
+                                "height": 522,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_Il recinto sul lato orientale_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il recinto sul lato orientale_pagina_principale"
+                ]
+            },
+            "width": 344,
+            "height": 522
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_La terrazza_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La terrazza_pagina_principale"
+                                    ]
+                                },
+                                "width": 720,
+                                "height": 486,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_La terrazza_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La terrazza_pagina_principale"
+                ]
+            },
+            "width": 720,
+            "height": 486
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/10",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/10/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/10/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_La terrazza_pagina_principale_1/pagina_principale_1.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_La terrazza_pagina_principale_1"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/10"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La terrazza_pagina_principale_1"
+                ]
+            },
+            "duration": 3.7
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/11",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/11/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/11/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/_La terrazza_pagina_principale_2/pagina_principale_2.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_La terrazza_pagina_principale_2"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/11"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La terrazza_pagina_principale_2"
+                ]
+            },
+            "duration": 12.375
+        }
+    ],
+    "label": {
+        "italian": [
+            "3-EDIFICIO SACRO_TEMPIO_STRUTTURE"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo_campano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=171,23,6,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "murature",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=621,143,7,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "I_fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=388,169,8,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "corinzio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=363,150,6,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=442,164,3,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=378,34,4,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tetto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=382,126,6,3"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=296,18,5,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazza",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=490,49,10,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "op_laterizia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=628,198,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=83,134,9,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=164,127,6,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos_ingresso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=612,236,15,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "II_fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=465,139,5,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "op_reticolata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=541,112,8,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "dec_architettoniche",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=368,20,5,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=42,159,10,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "menosle",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=637,113,6,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "rampa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=379,184,4,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/19-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fasi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=291,32,6,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/20-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=76,29,7,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/21-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuario",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=593,44,8,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/22-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese_cristiane",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=449,32,7,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/23-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=387,144,4,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/24-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=573,21,7,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/25-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "podio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=422,183,9,3"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/26-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=42,49,8,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3/annotation/27-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "statua",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/3#xywh=417,118,5,8"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotationpage/5",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=883,37,58,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "celebrativa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=279,327,25,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "silla",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=672,37,29,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafe",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1633,37,39,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1108,42,35,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "reperti",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1309,47,20,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1466,42,25,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=2605,47,83,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=2291,27,34,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=2138,22,45,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=2428,42,34,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1775,32,40,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "rampa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=2820,52,54,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fasi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=3002,57,39,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=1962,32,44,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cat_sociali",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=515,32,19,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=3144,81,30,30"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=166,32,40,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=3286,62,25,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4/annotation/19-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "personaggi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/4#xywh=353,27,29,49"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotationpage/6",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=593,218,24,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=1530,395,24,63"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=646,83,24,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=1453,232,72,58"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "reperti",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=160,304,39,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=372,342,57,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "celebrativa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=1275,342,53,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=151,573,57,67"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazza",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=559,453,29,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=208,453,34,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=746,371,39,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scalinata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=886,809,53,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "rampa_accesso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=876,515,53,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fasi_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=179,799,24,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=727,621,34,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "silla",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=473,131,24,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=170,194,14,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "categorie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/5#xywh=319,203,14,43"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotationpage/7",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=211,57,6,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=421,114,3,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=119,49,7,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=426,69,7,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "celebrativa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=275,75,9,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=398,29,7,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=399,23,6,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "rampa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=165,164,6,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=387,261,4,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=323,224,6,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=351,283,4,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=422,156,7,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fasi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=223,268,3,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=136,246,5,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=406,201,5,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=294,41,8,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=118,9,6,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tecniche",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/6#xywh=229,21,9,12"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotationpage/8",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=9,130,3,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=179,2,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "religione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=96,8,8,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=10,97,5,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=211,21,12,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=223,48,5,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=6,70,4,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuario",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=12,157,6,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=14,183,5,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "silla",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=111,67,8,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=5,2,9,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "storia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/7#xywh=10,22,3,6"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotationpage/9",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=288,234,5,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=7,115,14,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "laterizia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=261,296,10,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=23,207,20,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "dec_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=258,222,8,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=134,200,13,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=26,168,16,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=214,107,7,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=97,88,4,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=94,26,16,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana_temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=75,136,9,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=17,57,9,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=82,293,12,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "travertino",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=14,269,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=56,64,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "reticolata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=195,273,12,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "mensole_est",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=258,163,17,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=208,15,9,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "soffitto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=148,137,7,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8/annotation/19-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tecniche",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/8#xywh=202,51,9,19"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina3-EDIFICIO SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotationpage/10",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=421,12,5,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "corinzio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=336,159,4,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=308,12,5,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=111,160,13,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "podio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=478,200,5,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pronao",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=362,177,6,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=463,175,9,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=463,106,7,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazza",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=491,10,4,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "II_fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=531,158,13,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=684,159,6,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "timpano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=292,122,6,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos_ingresso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=475,393,9,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "dec_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=396,141,7,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=122,10,4,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "rampa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=281,192,8,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "mensole",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=639,101,7,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_architett",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=254,91,6,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cella_unica",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=418,164,4,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/19-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "Diana_fasi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=122,204,4,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/20-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=38,91,5,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/21-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=31,16,11,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/22-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=558,61,7,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/23-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "podio_sud",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=357,215,11,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/24-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "frontone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=304,130,7,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/25-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo_campano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=188,12,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/26-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuario",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=23,208,6,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/27-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pavimenti",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=411,190,4,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/28-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "str_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=569,8,5,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9/annotation/29-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiese",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/3-EDIFICIO%20SACRO_TEMPIO_STRUTTURE/index.json/canvas/9#xywh=366,15,7,8"
+                }
+            ]
+        }
+    ]
+}

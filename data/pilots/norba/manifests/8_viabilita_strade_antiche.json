@@ -1,0 +1,1495 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_La-strada-di-Porta-Maggiore/img_pagina_principale_5POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-di-Porta-Maggiore"
+                                    ]
+                                },
+                                "width": 3456,
+                                "height": 2592
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-di-Porta-Maggiore"
+                ]
+            },
+            "width": 3456,
+            "height": 2592
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-Acropoli-Minore/img_pagina_principale_7POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-Acropoli-Minore"
+                                    ]
+                                },
+                                "width": 3465,
+                                "height": 2592,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-Acropoli-Minore/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2"
+                        },
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_La-strada-per-Acropoli-Minore/img_pagina_principale_7POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-Acropoli-Minore"
+                                    ]
+                                },
+                                "width": 3456,
+                                "height": 2592
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-Acropoli-Minore"
+                ]
+            },
+            "width": 3456,
+            "height": 2592
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-il-Santuario-di-Giunone-Lucina/img_pagina_principale_24POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-il-Santuario-di-Giunone-Lucina"
+                                    ]
+                                },
+                                "width": 947,
+                                "height": 723,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-il-Santuario-di-Giunone-Lucina/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-il-Santuario-di-Giunone-Lucina"
+                ]
+            },
+            "width": 947,
+            "height": 723
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-la-casa-con-le-colonne/img_pagina_principale_19POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-la-casa-con-le-colonne"
+                                    ]
+                                },
+                                "width": 3150,
+                                "height": 4142,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-la-casa-con-le-colonne/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-la-casa-con-le-colonne"
+                ]
+            },
+            "width": 3150,
+            "height": 4142
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_La-strada-per-le-case-del-caduceo-e-dei-semi-combusti/img_pagina_principale_6POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-le-case-del-caduceo-e-dei-semi-combusti"
+                                    ]
+                                },
+                                "width": 3456,
+                                "height": 2592
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-le-case-del-caduceo-e-dei-semi-combusti"
+                ]
+            },
+            "width": 3456,
+            "height": 2592
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-le-case-del-grande-impluvium-delle-arule-e-dei-delfini/img_pagina_principale_17POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-le-case-del-grande-impluvium-delle-arule-e-dei-delfini"
+                                    ]
+                                },
+                                "width": 2629,
+                                "height": 1680,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-le-case-del-grande-impluvium-delle-arule-e-dei-delfini/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-le-case-del-grande-impluvium-delle-arule-e-dei-delfini"
+                ]
+            },
+            "width": 2629,
+            "height": 1680
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-Porta-Ninfina/img_pagina_principale_21POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-per-Porta-Ninfina"
+                                    ]
+                                },
+                                "width": 3150,
+                                "height": 2359,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-per-Porta-Ninfina/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-per-Porta-Ninfina"
+                ]
+            },
+            "width": 3150,
+            "height": 2359
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/7",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/7/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/7/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale/POI_22_strada principale2.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/7"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-principale"
+                ]
+            },
+            "duration": 5.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale-img_attraversamenti_pedonali/img_attraversamenti_pedonali.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-principale-img_attraversamenti_pedonali"
+                                    ]
+                                },
+                                "width": 3937,
+                                "height": 2287,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale-img_attraversamenti_pedonali/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-principale-img_attraversamenti_pedonali"
+                ]
+            },
+            "width": 3937,
+            "height": 2287
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale-img_pagina_principale_22POI/img_pagina_principale_22POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_La-strada-principale-img_pagina_principale_22POI"
+                                    ]
+                                },
+                                "width": 3937,
+                                "height": 2957,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/_La-strada-principale-img_pagina_principale_22POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_La-strada-principale-img_pagina_principale_22POI"
+                ]
+            },
+            "width": 3937,
+            "height": 2957
+        }
+    ],
+    "label": {
+        "italian": [
+            "8-VIABILITA-Strade-antiche"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/0/annotationpage/1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=1112,1879,65,136"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_viabilit?",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=769,1850,78,100"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_piazzola",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=2114,1313,57,93"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=1649,1306,79,122"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=1828,863,157,121"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_stradadiportamaggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/0#xywh=1456,1614,121,122"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=1613,2358,115,79"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=2407,1900,151,158"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoliminore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=2021,784,79,100"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_sepolture",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=2472,1163,93,107"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempiominore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=647,734,86,93"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=1513,1285,86,93"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamentourbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=1634,777,122,100"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_stradaacropoliminore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/1#xywh=1813,1750,129,129"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/2/annotationpage/3",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=410,332,14,24"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba-marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=476,334,16,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=591,457,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=667,147,28,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=491,132,31,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_santuario_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=328,176,18,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_briglie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=338,312,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=29,665,39,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/2#xywh=448,360,33,28"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_casa_con_le_colonne",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=2844,1181,141,94"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=2718,2584,118,47"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=125,1863,149,55"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=1708,3014,102,94"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=63,210,133,157"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_secondaria",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/3#xywh=1097,3492,141,126"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/4/annotationpage/5",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_operapoligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=2765,805,157,194"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=2135,784,72,71"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=1270,2122,157,129"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=2107,1943,114,136"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus1",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=1592,698,114,100"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=189,1499,179,115"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=547,2244,207,157"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=733,1499,172,129"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamentourbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=726,569,100,79"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_stradesecondarie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/4#xywh=1942,1356,122,143"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/5/annotationpage/6",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_casadelfini",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=92,752,63,88"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=388,1334,44,63"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_casaarule",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=504,587,78,59"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=1106,1000,77,82"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_casagrandeimpluvium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=752,539,43,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=2148,1174,58,73"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamentourbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=2352,704,67,116"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_stradesecondarie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/5#xywh=1319,1256,92,107"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/6/annotationpage/7",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1289,2136,71,62"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_secondaria",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1972,1605,40,36"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=526,2145,63,76"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1494,1137,58,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_secondaria",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1731,1172,40,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1481,1583,49,31"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1632,842,32,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_terme",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=2132,414,63,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_casa_del_labrum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=2262,1288,62,40"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_principale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1624,1364,35,67"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=963,945,72,31"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_porta_ninfina",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/6#xywh=1213,1208,40,40"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/8/annotationpage/9",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_attraversamenti_pedonali",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=2321,1220,55,75"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=765,1866,90,105"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=3499,1344,124,140"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=2321,1827,99,94"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=1476,524,119,80"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=3275,375,55,70"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strade_secondarie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=1014,1275,79,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=1198,42,89,74"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_principale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/8#xywh=2972,1722,65,80"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba8-VIABILITA-Strade-antiche/index.json/canvas/9/annotationpage/10",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=3534,2437,67,56"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=2650,1559,112,67"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strade_secondarie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=575,1738,84,50"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=2147,1995,117,107"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiedi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1107,1553,67,45"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_attraversamenti_pedonali",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=877,1777,62,84"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_attraversamenti_pedonali",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=2896,1917,129,173"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1185,675,84,79"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=2153,580,83,68"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1185,2258,106,84"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_minore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1951,513,56,51"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strade_secondarie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=3484,2079,83,84"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1398,614,89,56"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_principale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/8-VIABILITA-Strade-antiche/index.json/canvas/9#xywh=1666,2090,185,118"
+                }
+            ]
+        }
+    ]
+}

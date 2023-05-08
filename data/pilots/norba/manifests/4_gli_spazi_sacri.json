@@ -1,0 +1,1537 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana/img_pagina_principale_30POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Maggiore-e-il-Tempio-di-Diana"
+                                    ]
+                                },
+                                "width": 1439,
+                                "height": 1728,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Maggiore-e-il-Tempio-di-Diana"
+                ]
+            },
+            "width": 1439,
+            "height": 1728
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1_30POI/img_approfondimento1_30POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1_30POI"
+                                    ]
+                                },
+                                "width": 718,
+                                "height": 493,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1_30POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1_30POI"
+                ]
+            },
+            "width": 718,
+            "height": 493
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1bis_30POI/img_approfondimento1bis_30POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1bis_30POI"
+                                    ]
+                                },
+                                "width": 713,
+                                "height": 387,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1bis_30POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento1bis_30POI"
+                ]
+            },
+            "width": 713,
+            "height": 387
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento2_30POI/img_approfondimento2_30POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento2_30POI"
+                                    ]
+                                },
+                                "width": 665,
+                                "height": 461,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento2_30POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_approfondimento2_30POI"
+                ]
+            },
+            "width": 665,
+            "height": 461
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_bacino/img_bacino.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_bacino"
+                                    ]
+                                },
+                                "width": 717,
+                                "height": 515,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_bacino/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Maggiore-e-il-Tempio-di-Diana-img_bacino"
+                ]
+            },
+            "width": 717,
+            "height": 515
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/5",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/5/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Minore/POI_14_Acropoli Minore.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Minore"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/5"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Minore"
+                ]
+            },
+            "duration": 22.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Minore/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_Acropoli-Minore-img_approfondimento_14POI/img_approfondimento_14POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Minore-img_approfondimento_14POI"
+                                    ]
+                                },
+                                "width": 3456,
+                                "height": 2592
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/6"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Minore-img_approfondimento_14POI"
+                ]
+            },
+            "width": 3456,
+            "height": 2592
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Minore-img_pagina_principale_14POI/img_pagina_principale_14POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Acropoli-Minore-img_pagina_principale_14POI"
+                                    ]
+                                },
+                                "width": 1190,
+                                "height": 962,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Acropoli-Minore-img_pagina_principale_14POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Acropoli-Minore-img_pagina_principale_14POI"
+                ]
+            },
+            "width": 1190,
+            "height": 962
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/8",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/8/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/8/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina/POI _26_terrazza Giunone.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/8"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina"
+                ]
+            },
+            "duration": 14.56,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_approfondimento1_25POI/img_approfondimento1_25POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina-img_approfondimento1_25POI"
+                                    ]
+                                },
+                                "width": 1181,
+                                "height": 861,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_approfondimento1_25POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina-img_approfondimento1_25POI"
+                ]
+            },
+            "width": 1181,
+            "height": 861
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_gorgone/img_gorgone.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina-img_gorgone"
+                                    ]
+                                },
+                                "width": 1021,
+                                "height": 1023,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_gorgone/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina-img_gorgone"
+                ]
+            },
+            "width": 1021,
+            "height": 1023
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/11/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_Il-Santuario-di-Giunone-Lucina-img_pagina_principale_25POI/img_pagina_principale_25POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina-img_pagina_principale_25POI"
+                                    ]
+                                },
+                                "width": 1575,
+                                "height": 1207
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/11"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina-img_pagina_principale_25POI"
+                ]
+            },
+            "width": 1575,
+            "height": 1207
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_storica/img_storica.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina-img_storica"
+                                    ]
+                                },
+                                "width": 1165,
+                                "height": 529,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-img_storica/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina-img_storica"
+                ]
+            },
+            "width": 1165,
+            "height": 529
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/13",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/13/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/13/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-POI _26_tempio Giunone/POI _26_tempio Giunone.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Il-Santuario-di-Giunone-Lucina-POI _26_tempio Giunone"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/13"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Il-Santuario-di-Giunone-Lucina-POI _26_tempio Giunone"
+                ]
+            },
+            "duration": 12.56,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/_Il-Santuario-di-Giunone-Lucina-POI _26_tempio Giunone/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "label": {
+        "italian": [
+            "4-GLI-SPAZI-SACRI"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/0/annotationpage/1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strutture_annesse",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=758,1094,53,46"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_temenos",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=373,362,71,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_maggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=1137,780,62,66"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_deposito_tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=820,421,69,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=513,548,56,30"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=732,548,79,56"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=26,35,75,59"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_pronao",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/0#xywh=677,522,19,36"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_gocciolatoio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1#xywh=357,96,26,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1#xywh=3,75,18,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norma_museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1#xywh=10,7,25,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_maggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/1#xywh=8,41,16,10"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/2/annotationpage/3",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tetto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=49,219,24,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_gocciolatoio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=352,340,19,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=633,11,18,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_maggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=9,77,17,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=8,2,20,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/2#xywh=10,39,16,17"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_statuine",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3#xywh=164,361,23,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_votivi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3#xywh=15,421,18,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_maggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3#xywh=2,5,17,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3#xywh=17,34,20,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_deposito_votivo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/3#xywh=322,390,15,17"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/4/annotationpage/5",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vasi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=120,298,20,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=167,185,18,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_epigrafe_onoraria",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=228,220,24,26"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=9,39,16,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_maggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=7,8,18,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/4#xywh=17,187,22,16"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/6/annotationpage/7",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=1360,793,39,59"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=2478,955,49,73"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_principale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=1884,2460,59,73"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoli_minore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=2071,886,78,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=31,23,79,69"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_rampa_accesso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/6#xywh=1973,1028,93,103"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/7/annotationpage/8",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cisterna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=722,298,13,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=258,625,18,24"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_pronao",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=886,367,23,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_rampaaccesso",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=955,734,18,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=858,289,35,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempiomaggiore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=822,376,22,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempiominore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=443,665,11,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_mura",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=704,70,12,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=947,407,20,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_acropoliminore",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=780,549,31,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=114,687,9,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_pronao",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=423,632,17,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamenti_urbani",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=18,914,27,26"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_scalinata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/7#xywh=522,651,12,20"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/9/annotationpage/10",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_deposito_votivo_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=799,372,43,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=725,227,53,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=407,517,26,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=569,170,28,33"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_santuario_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=550,455,40,43"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=1004,8,35,36"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/9#xywh=994,281,40,34"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/10/annotationpage/11",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10#xywh=33,854,45,40"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_santuario_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10#xywh=38,939,54,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10#xywh=16,13,51,48"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_votivo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/10#xywh=753,809,48,42"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/11/annotationpage/12",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_portici_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=554,436,48,45"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_santuario_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=529,648,52,70"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=993,701,55,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=163,930,46,46"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_strada_santuario",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=139,990,45,41"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_deposito_votivo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=637,439,56,53"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=1480,1122,59,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/11#xywh=742,659,52,35"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba4-GLI-SPAZI-SACRI/index.json/canvas/12/annotationpage/13",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12#xywh=525,268,28,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opera_poligonale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12#xywh=445,240,28,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12#xywh=17,485,33,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tempio_giunone",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/4-GLI-SPAZI-SACRI/index.json/canvas/12#xywh=698,279,21,36"
+                }
+            ]
+        }
+    ]
+}

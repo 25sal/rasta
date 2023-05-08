@@ -1,0 +1,205 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/11-TERME/_Le terme_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Le terme_pagina_principale"
+                                    ]
+                                },
+                                "width": 1931,
+                                "height": 1524,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/11-TERME/_Le terme_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Le terme_pagina_principale"
+                ]
+            },
+            "width": 1931,
+            "height": 1524,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/_Le terme_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "label": {
+        "italian": [
+            "11-TERME"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina11-TERME/index.json/canvas/0/annotationpage/1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cisterne",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=454,39,38,52"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terme",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=173,436,55,59"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "terrazze",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=330,69,30,56"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "op_idriche",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=620,48,21,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=360,282,13,43"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_architettonici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=624,883,30,43"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pilastro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=484,1083,29,43"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "portici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=317,1139,47,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuari",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=173,150,34,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=96,52,17,47"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/11-TERME/index.json/canvas/0#xywh=237,31,12,34"
+                }
+            ]
+        }
+    ]
+}

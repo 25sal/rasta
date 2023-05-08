@@ -1,0 +1,1465 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti/POI_13_dolia.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-della-casa-dei-semi-combusti"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-della-casa-dei-semi-combusti"
+                ]
+            },
+            "duration": 10.48,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento_case_antiche/img_approfondimento_case_antiche.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento_case_antiche"
+                                    ]
+                                },
+                                "width": 709,
+                                "height": 521,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento_case_antiche/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento_case_antiche"
+                ]
+            },
+            "width": 709,
+            "height": 521
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento2_13POI/img_approfondimento2_13POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento2_13POI"
+                                    ]
+                                },
+                                "width": 1181,
+                                "height": 867,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento2_13POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-della-casa-dei-semi-combusti-img_approfondimento2_13POI"
+                ]
+            },
+            "width": 1181,
+            "height": 867
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_pagina_principale_13POI/img_pagina_principale_13POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-della-casa-dei-semi-combusti-img_pagina_principale_13POI"
+                                    ]
+                                },
+                                "width": 1181,
+                                "height": 758,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-della-casa-dei-semi-combusti-img_pagina_principale_13POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-della-casa-dei-semi-combusti-img_pagina_principale_13POI"
+                ]
+            },
+            "width": 1181,
+            "height": 758
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_Gli-ambienti-della-casa-dei-semi-combusti-img_semicombusti/img_semicombusti.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-della-casa-dei-semi-combusti-img_semicombusti"
+                                    ]
+                                },
+                                "width": 787,
+                                "height": 531
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-della-casa-dei-semi-combusti-img_semicombusti"
+                ]
+            },
+            "width": 787,
+            "height": 531
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/5",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/5/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo/POI_11_2_ sostruzioni.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/5"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo"
+                ]
+            },
+            "duration": 5.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/6",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/6/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost/~salvatore/undefined/index.json/canvas/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://localhost/~salvatore/undefined/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento1_11POI/img_approfondimento1_11POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento1_11POI"
+                                    ]
+                                },
+                                "width": 550,
+                                "height": 408
+                            },
+                            "target": "http://localhost/~salvatore/undefined/index.json/canvas/6"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento1_11POI"
+                ]
+            },
+            "width": 550,
+            "height": 408
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/7",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/7/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/7/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento2_11POI/img_approfondimento2_11POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento2_11POI"
+                                    ]
+                                },
+                                "width": 1575,
+                                "height": 1047,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento2_11POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/7"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-img_approfondimento2_11POI"
+                ]
+            },
+            "width": 1575,
+            "height": 1047
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/8",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/8/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/8/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-POI 11_pavimenti/POI 11_pavimenti.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-POI 11_pavimenti"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/8"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-POI 11_pavimenti"
+                ]
+            },
+            "duration": 22.6,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-rappresentanza-della-casa-del-caduceo-POI 11_pavimenti/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/9",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/9/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo/POI_10_cucina.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-servizio-della-casa-del-caduceo"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/9"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-servizio-della-casa-del-caduceo"
+                ]
+            },
+            "duration": 15.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_approfondimento_case_antiche/img_approfondimento_case_antiche.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_approfondimento_case_antiche"
+                                    ]
+                                },
+                                "width": 709,
+                                "height": 521,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_approfondimento_case_antiche/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_approfondimento_case_antiche"
+                ]
+            },
+            "width": 709,
+            "height": 521
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_pagina_principale_9POI/img_pagina_principale_9POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_pagina_principale_9POI"
+                                    ]
+                                },
+                                "width": 3456,
+                                "height": 2592,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_pagina_principale_9POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_pagina_principale_9POI"
+                ]
+            },
+            "width": 3456,
+            "height": 2592
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_stanza_10POI/img_stanza_10POI.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_stanza_10POI"
+                                    ]
+                                },
+                                "width": 3264,
+                                "height": 2448,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_stanza_10POI/+tiles",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_Gli-ambienti-di-servizio-della-casa-del-caduceo-img_stanza_10POI"
+                ]
+            },
+            "width": 3264,
+            "height": 2448
+        }
+    ],
+    "label": {
+        "italian": [
+            "3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_opus_tassellatum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1#xywh=639,299,20,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1#xywh=137,437,27,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1#xywh=21,27,41,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/1#xywh=1041,667,29,18"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotationpage/3",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_magazzini",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=401,178,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_fauces",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=198,289,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tablinum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=363,120,11,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_ala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=353,313,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_atrium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=287,199,7,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_culina",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=272,384,12,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_impluvium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=247,234,9,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=235,394,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=186,305,4,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=171,348,9,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculm",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=236,336,8,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=291,284,10,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_scala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=363,243,11,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_edliziaprivata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=440,117,15,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/2#xywh=446,154,16,23"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cisterne",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=530,448,20,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vestibulum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=435,598,13,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_fauces",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=457,531,20,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_magazzini",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=10,442,15,18"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_impluvium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=541,405,21,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_atrium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=378,461,29,27"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=1073,548,23,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=457,669,23,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=345,572,9,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=577,670,17,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamenti_urbani",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=14,712,30,27"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/3#xywh=457,494,23,13"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4/annotationpage/5",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamenti_urbani",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4#xywh=21,17,19,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/4#xywh=18,142,12,24"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotationpage/11",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_magazzini",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=401,178,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_fauces",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=198,289,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_tablinum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=363,120,11,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_ala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=353,313,10,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_atrium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=287,199,7,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_culina",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=272,384,12,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_impluvium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=247,234,9,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=235,394,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=186,305,4,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_vie",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=171,348,9,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculm",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=236,336,8,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=291,284,10,4"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_scala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=363,243,11,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_edliziaprivata",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=440,117,15,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/10#xywh=446,154,16,23"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotationpage/12",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus2",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=3159,1151,118,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_culina",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1953,1494,44,34"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus1",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2517,1504,83,59"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2002,1117,54,63"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_atrium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1821,1332,78,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_impluvium",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1414,1229,59,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cubiculum",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2639,1283,74,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2835,1514,49,29"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_fauces",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2232,1401,49,54"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_scala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1286,1028,44,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_basolato",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2301,1788,39,49"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_ala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=654,1269,49,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_pietracalcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=3027,1391,19,39"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2375,1484,44,30"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_ala",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1615,1068,68,24"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_IIsecoloaC",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1237,1675,35,74"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_marciapiede",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=3002,1827,29,30"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamentourbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=2365,2200,83,64"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_stradaprincipale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/11#xywh=1943,1862,69,49"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/norba3-EDILIZIA PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotationpage/13",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_domus1",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12#xywh=794,1758,64,88"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12#xywh=1719,1217,51,55"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_soglia",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12#xywh=1544,1430,50,55"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_insediamento_urbano",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12#xywh=3020,2281,112,88"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "norba_calcare",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/norba/3-EDILIZIA%20PRIVATA-Gli-ambienti-delle-domus/index.json/canvas/12#xywh=1331,1430,46,50"
+                }
+            ]
+        }
+    ]
+}

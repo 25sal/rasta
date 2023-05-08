@@ -1,0 +1,684 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGI DI SCAVO ESTERNI_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGI DI SCAVO ESTERNI_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_SAGGI DI SCAVO ESTERNI_pagina_principale"
+                ]
+            },
+            "duration": 21.96,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGI DI SCAVO ESTERNI_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGI DI SCAVO_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGI DI SCAVO_pagina_principale"
+                                    ]
+                                },
+                                "width": 558,
+                                "height": 523,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGI DI SCAVO_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGI DI SCAVO_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGI DI SCAVO_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_SAGGI DI SCAVO_pagina_principale"
+                ]
+            },
+            "width": 558,
+            "height": 523,
+            "duration": 26.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/_SAGGI DI SCAVO_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_lastra_terracotta/lastra_terracotta.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGIO SAGRESTIA_lastra_terracotta"
+                                    ]
+                                },
+                                "width": 1656,
+                                "height": 909,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_lastra_terracotta/lastra_terracotta.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_lastra_terracotta/lastra_terracotta.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGIO SAGRESTIA_lastra_terracotta"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_SAGGIO SAGRESTIA_lastra_terracotta"
+                ]
+            },
+            "duration": 26.64,
+            "width": 1656,
+            "height": 909,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/_SAGGIO SAGRESTIA_lastra_terracotta/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_pagina_principale/pagina_principale.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGIO SAGRESTIA_pagina_principale"
+                                    ]
+                                },
+                                "width": 572,
+                                "height": 388,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_pagina_principale/pagina_principale.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/_SAGGIO SAGRESTIA_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_SAGGIO SAGRESTIA_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_SAGGIO SAGRESTIA_pagina_principale"
+                ]
+            },
+            "duration": 21.08,
+            "width": 572,
+            "height": 388,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/_SAGGIO SAGRESTIA_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "label": {
+        "italian": [
+            "10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=240,260,9,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=251,363,7,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "saggi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=179,209,12,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=452,409,14,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=267,34,20,17"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pav_medievale",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=52,332,15,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=265,99,11,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "base",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=141,66,9,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fusto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=148,38,5,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cipollino",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=131,19,9,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "el_arch",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=27,158,9,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "sectile",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=26,249,10,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=382,455,19,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "lastra",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/1#xywh=106,259,9,6"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/index.json/canvas/2/annotationpage/3",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=533,801,25,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=345,755,20,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "argilla",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=408,255,16,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "elem_architettonici",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=317,526,46,36"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "gocciolatoio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=756,582,28,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scavo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=177,709,23,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=37,100,38,40"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "decorazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/2#xywh=80,496,41,41"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina10-TEMPIO DI DIANA TIFATINA_SAGGI SCAVO/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "podio_est",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=147,360,12,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=11,166,12,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scavi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=59,139,12,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "podio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=53,358,10,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=6,247,6,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=21,293,10,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=37,336,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "canestro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=505,65,9,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=259,353,5,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cocciopesto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=454,6,8,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=34,26,9,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pavimenti",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/10-TEMPIO%20DI%20DIANA%20TIFATINA_SAGGI%20SCAVO/index.json/canvas/3#xywh=125,11,6,10"
+                }
+            ]
+        }
+    ]
+}

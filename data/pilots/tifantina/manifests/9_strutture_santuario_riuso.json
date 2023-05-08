@@ -1,0 +1,1566 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione/iscrizione.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione"
+                                    ]
+                                },
+                                "width": 448,
+                                "height": 336,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione/iscrizione.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione/iscrizione.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione"
+                ]
+            },
+            "width": 448,
+            "height": 336,
+            "duration": 12.08,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_iscrizione/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_mat_reimpiego/mat_reimpiego.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_mat_reimpiego"
+                                    ]
+                                },
+                                "width": 309,
+                                "height": 448,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_mat_reimpiego/mat_reimpiego.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_mat_reimpiego"
+                ]
+            },
+            "width": 309,
+            "height": 448
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/2",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/2/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_pagina_principale"
+                ]
+            },
+            "duration": 9,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana/statua_diana.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana"
+                                    ]
+                                },
+                                "width": 336,
+                                "height": 352,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana/statua_diana.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana"
+                ]
+            },
+            "width": 336,
+            "height": 352
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/4",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/4/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_1/statua_diana_1.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_1"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/4"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_1"
+                ]
+            },
+            "duration": 3.433333,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_1/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/5",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/5/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_2/statua_diana_2.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_2"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/5"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_2"
+                ]
+            },
+            "duration": 21.04,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_I PAVIMENTI ANTICHI DEL TEMPIO_statua_diana_2/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/6",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/6/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_IL CAMPANILE_pagina_principale/pagina_principale.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_IL CAMPANILE_pagina_principale"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/6"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_IL CAMPANILE_pagina_principale"
+                ]
+            },
+            "duration": 13.08,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_IL CAMPANILE_pagina_principale/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_colonne_capitelli/colonne_capitelli.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_colonne_capitelli"
+                                    ]
+                                },
+                                "width": 1504,
+                                "height": 1000,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_colonne_capitelli/colonne_capitelli.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_colonne_capitelli"
+                ]
+            },
+            "width": 1504,
+            "height": 1000
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema/emblema.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema"
+                                    ]
+                                },
+                                "width": 1024,
+                                "height": 768,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema/emblema.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema/emblema.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema"
+                ]
+            },
+            "width": 1024,
+            "height": 768,
+            "duration": 12.52,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_emblema/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9",
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotationpage/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella/muri_cella.tif",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "label": {
+                                    "italian": [
+                                        "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella"
+                                    ]
+                                },
+                                "width": 1704,
+                                "height": 2272,
+                                "service": [
+                                    {
+                                        "@id": "https://cosme.unicampania.it/iiif/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella/muri_cella.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9"
+                        },
+                        {
+                            "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella/muri_cella.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "label": {
+                                    "italian": [
+                                        "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella"
+                                    ]
+                                }
+                            },
+                            "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9"
+                        }
+                    ]
+                }
+            ],
+            "label": {
+                "italian": [
+                    "_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella"
+                ]
+            },
+            "width": 1704,
+            "height": 2272,
+            "duration": 10.12,
+            "thumbnail": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE SANTUARIO_RIUSO/_LE LASTRE MARMOREE E GLI ELEMENTI ARCHITETTONICI DI RIUSO_muri_cella/thumb.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "label": {
+        "italian": [
+            "9-STRUTTURE SANTUARIO_RIUSO"
+        ]
+    },
+    "annotations": [
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/0/annotationpage/1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pavimento",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=329,42,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epigrafe",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=127,237,12,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "datazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=16,146,8,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=309,5,9,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "celebrativa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=190,88,15,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=244,15,9,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=134,7,14,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "santuario",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=135,309,11,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pavimento_iscrizione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=224,261,13,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ristrutturazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=246,295,16,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epoca_romana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=369,225,11,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "canestro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=32,316,13,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=9,89,7,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=11,9,11,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "sectile",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/0#xywh=416,112,14,9"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/1/annotationpage/2",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=12,141,14,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=61,422,20,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=20,392,9,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ristrutturazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=203,349,15,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "templi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=145,416,18,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "canestro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=209,268,23,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "pavimentazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=205,327,17,5"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "lastra",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=7,322,21,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "corinzio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=197,75,8,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "base",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=12,263,8,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "capitello",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=208,109,14,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=185,391,14,7"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=86,12,12,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/1#xywh=74,49,11,12"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/3/annotationpage/4",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_Diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=10,221,15,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "museo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=233,7,18,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "statua",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=159,9,13,10"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=14,183,19,16"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=13,65,9,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=16,100,15,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=12,142,7,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_votiva",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=53,311,23,9"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "annessi",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=14,254,19,11"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "deposito",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=9,285,14,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=99,10,13,6"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=20,6,20,12"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/3#xywh=16,35,16,6"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/7/annotationpage/8",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cipollino",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=724,708,19,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "corinzio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=690,392,25,31"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "affresco",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=1269,261,8,8"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana_tifatina",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=824,926,28,31"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=595,917,39,26"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=612,632,22,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=232,621,22,14"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "capitello",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=355,140,22,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fusto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=352,532,22,22"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=388,741,17,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=190,887,28,28"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=53,803,22,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scene_religiose",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/7#xywh=187,425,19,23"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/8/annotationpage/9",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=181,666,24,15"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=22,316,13,23"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=37,653,45,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=284,657,43,35"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=703,672,17,13"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tessere",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=640,123,28,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epoca_romana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=531,672,26,20"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=400,672,58,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=28,123,16,21"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=7,24,21,19"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "lastra",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/8#xywh=101,22,26,15"
+                }
+            ]
+        },
+        {
+            "id": "https://cosme.unicampania.it/rasta/tifantina9-STRUTTURE SANTUARIO_RIUSO/index.json/canvas/9/annotationpage/10",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/0-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fase",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=159,2047,76,63"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/1-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tessere",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1423,764,64,51"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/2-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=58,535,38,64"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/3-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "epoca_romana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1061,1717,70,57"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/4-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ed_sacri",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=337,2085,51,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/5-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "chiesa",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=667,2117,64,51"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/6-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "periptero",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1144,2079,50,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/7-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "ristrutturazione",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=312,1761,50,38"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/8-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "tempio_diana",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=64,1767,83,58"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/9-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "diana_cella",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1277,1285,57,70"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/10-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cipollino",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=375,637,51,51"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/11-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "canestro",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1423,1920,57,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/12-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "fusto",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=286,847,51,25"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/13-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "base",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=407,1228,44,63"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/14-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "cella_unica",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=1379,942,38,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/15-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "scavo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=572,1456,51,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/16-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "colonna",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=712,593,44,44"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/17-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "s_angelo",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=83,281,25,32"
+                },
+                {
+                    "id": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9/annotation/18-tag",
+                    "type": "Annotation",
+                    "motivation": "tagging",
+                    "body": {
+                        "type": "TextualBody",
+                        "value": "lastra",
+                        "language": "it",
+                        "format": "text/plain"
+                    },
+                    "target": "https://cosme.unicampania.it/rasta/tifantina/9-STRUTTURE%20SANTUARIO_RIUSO/index.json/canvas/9#xywh=324,1450,58,57"
+                }
+            ]
+        }
+    ]
+}
