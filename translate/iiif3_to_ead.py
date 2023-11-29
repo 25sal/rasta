@@ -1,6 +1,6 @@
 import json
 from xml.etree import ElementTree as ET
-import logging
+import logging  
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG, format='%(message)s')
@@ -66,12 +66,15 @@ def Search_dublincore(json_data):
 
 
 if __name__ == "__main__":
-    manifest = "norba_acropoli"
-    collection_id = "ITDILBEC01"
-    sample_date = "2023-02-27"
-    creator = 'Dipartimento di Beni Culturali, Università della Campania "Luigi Vanvitelli"'
+    manifest = "san_leucio_v3"
+    collection_id = "ITDISP01"
+    sample_date = "2023-11-27"
+    creator = 'Dipartimento di Scienze Politiche, Università della Campania "Luigi Vanvitelli"'
+    address_txt = 'Viale Ellittico n. 31, 81100 Caserta'
 
-    with open("../data/manifest/"+manifest+".json") as f:
+
+    data_path = "/home/salvatore/development/git/rasta/data/manifest"
+    with open(data_path+"/"+manifest+".json") as f:
         data = json.load(f)
 
         root = ET.Element("ead")
@@ -88,8 +91,7 @@ if __name__ == "__main__":
 
         publicationstmt = ET.SubElement(filedesc, "publicationstmt")
         publisher = ET.SubElement(publicationstmt, "publisher")
-        publisher.text = "Dipartimento di Lettere e Beni Culturali, Università della Campania Luigi Vanvitelli"
-
+        publisher.text = creator
         creation_date = ET.SubElement(publicationstmt, "date")
         creation_date.set("normal", sample_date)
         creation_date.set("encodinganalog", sample_date)
@@ -97,7 +99,7 @@ if __name__ == "__main__":
 
         address = ET.SubElement(publicationstmt, "address")
         addressline = ET.SubElement(address, "addressline")
-        addressline.text = ""
+        addressline.text = address_txt
 
         seriesstmt = ET.SubElement(filedesc, "seriesstmt")
         ser_titleproper = ET.SubElement(seriesstmt, "titleproper")
@@ -110,6 +112,7 @@ if __name__ == "__main__":
 
 
         label =Search_dublincore(data)
+        
         label["Title"] = data['label']['@none'][0]
         logger.debug("title:" + label["Title"])
         titleproper.text=label["Title"]
@@ -186,8 +189,10 @@ if __name__ == "__main__":
                             unitid.text = canvas_image['body']['id']
 
                             unititle = ET.SubElement(did,"unittitle")
-                            unititle.text = canvas_image['body']['label']['@none'][0]
-
+                            if 'label' in canvas_image['body']:
+                                unititle.text = canvas_image['body']['label']['@none'][0]
+                            else:
+                                unititle.text = 'no unit title'
                             physdesc = ET.SubElement(did, "physdesc")
                             physdesc.set("encodinganalog", "3.1.5")
                             physdesc.text = "IIIF Images"
@@ -217,9 +222,10 @@ if __name__ == "__main__":
         dtd = '<?xml version="1.0" encoding="utf-8"?>\n<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN"' \
               ' "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">'
 
-        with open('../data/manifest/'+manifest+'_ead.xml', 'wb') as f:
+    
+        with open(data_path+'/'+manifest+'_ead.xml', 'wb') as f:
             f.write(dtd.encode('utf8'))
-            tree.write(f, 'utf-8')
+            tree.write(f, 'utf8')
 
 
 
