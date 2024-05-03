@@ -1,0 +1,119 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/config/manifest-templates/blank.json",
+  "@type": "sc:Manifest",
+  "label": "Blank Manifest",
+  "metadata": [
+    {
+      "label": "any_label",
+      "value": "any_value"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "/config/manifest-templates/blank.json/sequence0",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "/config/manifest-templates/blank.json/canvas/efe07759-6070-45c0-ba41-5447e0ebbb32",
+          "@type": "sc:Canvas",
+          "height": 2592,
+          "width": 3456,
+          "label": "canvas1",
+          "metadata": [
+            {
+              "label": "any_label",
+              "value": "any_canvas"
+            }
+          ],
+          "images": [
+            {
+              "@id": "/config/manifest-templates/blank.json/canvas/efe07759-6070-45c0-ba41-5447e0ebbb32/annotation-page/2ceb8a1e-8818-41df-b28f-d47abb21dd54/annotation/d8f915e8-81be-4e97-8b92-8cdbb89b1b84",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "/config/manifest-templates/blank.json/canvas/efe07759-6070-45c0-ba41-5447e0ebbb32",
+                  "type": "Canvas"
+                }
+              },
+              "resource": {
+                "@id": "https://cosme.unicampania.it/iiif/cosme/carditello_calvi/1.tif/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2592,
+                "width": 3456,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cosme.unicampania.it/iiif/cosme/carditello_calvi/1.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "width": 3456,
+                  "height": 2592,
+                  "sizes": [
+                    {
+                      "width": 216,
+                      "height": 162
+                    },
+                    {
+                      "width": 432,
+                      "height": 324
+                    },
+                    {
+                      "width": 864,
+                      "height": 648
+                    },
+                    {
+                      "width": 1728,
+                      "height": 1296
+                    }
+                  ],
+                  "tiles": [
+                    {
+                      "width": 256,
+                      "height": 256,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray",
+                        "bitonal"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "regionSquare",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring"
+                      ],
+                      "maxWidth": 5000,
+                      "maxHeight": 5000
+                    }
+                  ],
+                  "id": "https://cosme.unicampania.it/iiif/cosme/carditello_calvi/1.tif"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": []
+}
