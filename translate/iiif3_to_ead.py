@@ -66,11 +66,13 @@ def Search_dublincore(json_data):
 
 
 if __name__ == "__main__":
+    
     manifest = "san_leucio_v3"
     collection_id = "ITDISP01"
     sample_date = "2023-11-27"
     creator = 'Dipartimento di Scienze Politiche, Università della Campania "Luigi Vanvitelli"'
     address_txt = 'Viale Ellittico n. 31, 81100 Caserta'
+   
 
 
     data_path = "/home/salvatore/development/git/rasta/data/manifest"
